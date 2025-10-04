@@ -1,0 +1,18 @@
+{
+  "name": "live-text",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nanoid": "^5.1.6",
+    "socket.io": "^4.8.1",
+    "unique-names-generator": "^4.7.1"
+  }
+}
